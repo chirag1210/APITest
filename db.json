@@ -22,37 +22,5 @@
     "item_left": 3,
     "category": "TV",
     "rating": 3.5
-  },
-  {
-    "id": "04",
-    "name": "Whirlpool",
-    "price": 2000,
-    "item_left": 4,
-    "category": "Refrigerator",
-    "rating": 3.5
-  },
-  {
-    "id": "05",
-    "name": "Reebok",
-    "price": 2000,
-    "item_left": 5,
-    "category": "Shoes",
-    "rating": 3.5
-  },
-  {
-    "id": "06",
-    "name": "Mobile 1",
-    "price": 6000,
-    "item_left": 5,
-    "category": "Mobile",
-    "rating": 3
-  },
-  {
-    "id": "07",
-    "name": "Mobile 1",
-    "price": 10000,
-    "item_left": 20,
-    "category": "Mobile",
-    "rating": 1.5
   }
 ]
