@@ -3,7 +3,6 @@
     "id": "01",
     "name": "Mobile 1",
     "price": 2000,
-    "item_left": 1,
     "category": "Mobile",
     "rating": 1
   },
@@ -11,7 +10,6 @@
     "id": "02",
     "name": "Microwave 1",
     "price": 2000,
-    "item_left": 2,
     "category": "Microwave",
     "rating": 2
   },
@@ -19,7 +17,6 @@
     "id": "03",
     "name": "Sony",
     "price": 2000,
-    "item_left": 3,
     "category": "TV",
     "rating": 3.5
   }
